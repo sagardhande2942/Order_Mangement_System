@@ -4,7 +4,7 @@
     b) Git hub repository
     -> https://github.com/aadi2057/OrderManagementSystem 
 
-2) Inventory management system , quite similar to our project just that its GUI and features can be used for reference 
+2) Inventory management system , quite similar to our project just that its GUI and features can be used for reference ( NO SOURCE CODE)
     -> https://www.youtube.com/watch?v=VpwLw42vrwU
     a) Java Inventory Management System Source Code - Understanding The Order Part
     -> https://www.youtube.com/watch?v=yPqniDLlFeU
