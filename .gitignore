@@ -23,3 +23,5 @@
 hs_err_pid*
 /Order_Management/target/
 /Order_Managment_System/target/
+/.metadata/
+/Register_Page/nbproject/private/
